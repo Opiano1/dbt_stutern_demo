@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: demo_data 
+    database: raw
+    schema: public
+
+    tables:
+      - name: ADDRESSES
